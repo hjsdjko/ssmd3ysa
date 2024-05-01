@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="ssmd3ysa">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>ssmd3ysa</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="ssmd3ysa.war">
+      <element id="artifact" artifact-name="ssmd3ysa:war exploded" />
+    </root>
+  </artifact>
+</component>
